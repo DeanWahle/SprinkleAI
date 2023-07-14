@@ -1,0 +1,21 @@
+/* index.css */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #ffffff; 
+  color: #FAAFBE; 
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #FAAFBE; 
+}
+
+button {
+  color: #ffffff; 
+  background-color: #FAAFBE;
+}
+
+a {
+  color: #FAAFBE;
+}
