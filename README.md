@@ -33,25 +33,29 @@
     <img src="images/donut.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Sprinkle.ai</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Company specific cover letters with a dash of AI
     <br />
+    <!--
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
+    
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    -->
   </p>
 </div>
 
 
 
 <!-- TABLE OF CONTENTS -->
+<!-- 
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -76,10 +80,12 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+-->
 
 
 
 <!-- ABOUT THE PROJECT -->
+<!--
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
@@ -96,21 +102,24 @@ Of course, no one template will serve all projects since your needs may be diffe
 Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+-->
 
 
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
+<!--
 * [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
+-->
+* [![React][React.js]][React-url]
+* [![ChatGPT][ChatGpt]][ChatGPT-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
